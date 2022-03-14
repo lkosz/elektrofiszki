@@ -1,2 +1,1 @@
-# elektrofiszki
-Electronic flash cards
+This program is like flash cards but in electronic way. Choose between several languages, add any word/words/phrases/meanings you want. Program will ask for it and read back using voice from google translate to remember pronunciation. If you write correct answer (one of correct answers), word level is incremented which means program will ask again for it in longer period. Level 1 is after 5min, level 20 is after 72 days. If you answer wrong - level is decremented.
